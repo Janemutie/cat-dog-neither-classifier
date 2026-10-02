@@ -156,7 +156,7 @@ The model was connected to a simple **Gradio** interface that allows users to up
 
 This project helped me understand the practical machine learning workflow:
 
-
+```text
 Problem Definition
        ↓
 Dataset Collection
@@ -178,7 +178,7 @@ Evaluation
 Real-World Testing
        ↓
 Deployment
-
+```
 
 A particularly important lesson was that a high validation accuracy does not necessarily mean a model will behave perfectly on every real-world image. Testing the model with unfamiliar and difficult images helped reveal its strengths and limitations.
 
